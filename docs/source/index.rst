@@ -1,4 +1,4 @@
-Welcome to TSSpredator's documentation!
+TSSpredator - TSS prediction tool
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
