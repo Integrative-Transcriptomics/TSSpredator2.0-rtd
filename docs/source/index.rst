@@ -26,4 +26,4 @@ Contents
 
    usage
    api
-   start	
+   getting started	
