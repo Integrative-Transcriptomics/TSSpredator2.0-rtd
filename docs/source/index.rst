@@ -27,3 +27,4 @@ Contents
    usage
    api
    start	
+   methods
