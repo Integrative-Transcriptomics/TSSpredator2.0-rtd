@@ -1,5 +1,6 @@
 Before using TSSpredator
 ===
 
+.. _before_
 
-API
+Before
