@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'TSSpredator'
+copyright = '2021, Dilek Tuncbilek-Dere'
+author = 'Dilek Tuncbilek-Dere'
 
 release = '0.1'
-version = '0.1.0'
+version = '2.0'
 
 # -- General configuration
 
