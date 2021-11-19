@@ -26,7 +26,7 @@ Contents
 
    usage
    api
-   start
+   #start
    #methods
    #interface
    #setsAndParams
