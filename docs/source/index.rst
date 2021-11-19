@@ -26,4 +26,5 @@ Contents
 
    usage
    api
-   getting started	
+   getting started
+   methods
