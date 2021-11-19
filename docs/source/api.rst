@@ -1,6 +1,6 @@
 Before using TSSpredator
 ===========
 
-.. _before:
+.. _before::
 
 Before
