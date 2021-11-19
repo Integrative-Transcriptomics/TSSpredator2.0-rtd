@@ -1,9 +1,9 @@
-Start
+Getting started
 =====
 
 .. _installation:
 
-Installation
+Preparing the input files
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Hallo hi
+Identifier coherence
 ----------------
 
 To retrieve a list of random ingredients,
@@ -31,3 +31,6 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
+
+Overview
+----------------
