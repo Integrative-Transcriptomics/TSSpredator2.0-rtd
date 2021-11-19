@@ -1,7 +1,7 @@
-Before using TSSpredator
+API
 ===
 
 .. autosummary::
    :toctree: generated
 
-   hello
+   lumache
