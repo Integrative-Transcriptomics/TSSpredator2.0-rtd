@@ -25,5 +25,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   before using TSSpredator
    getting started	
