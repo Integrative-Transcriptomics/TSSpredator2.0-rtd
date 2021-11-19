@@ -1,7 +1,7 @@
 Getting Started
 ===
 
-..autosummary::
-   :toctree:generated
+.. autosummary::
+   :toctree: generated
    
    Hi
