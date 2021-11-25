@@ -5,19 +5,19 @@ Methods
 
 Normalization
 ------------
-	Before the comparative analysis we normalize the expression graph data that is used
-	as input. A percentile normalization step is applied to normalize the graphs from the
-	enriched library. For this the 90th percentile (default, see normalization percentile) of all
-	data values is calculated for each graph of a treated library. This value is then used to
-	normalize this graph as well as the respective graph of the untreated library. Thus, the
-	relative di erences between each pair of libraries (treated and untreated) are not changed
-	in this normalization step. All graphs are multiplied with the overall lowest value to
-	restore the original data range.
-	To account for di erent enrichment rates a further normalization step is applied. During
-	this step a prediction of TSS candidates is performed for each strain/condition. These
-	candidates are then used to determine the median enrichment factor for each library pair
-	(default, see enrichment normalization percentile). Using these medians all untreated
-	libraries are then normalized against the library with the strongest enrichment.
+Before the comparative analysis we normalize the expression graph data that is used
+as input. A percentile normalization step is applied to normalize the graphs from the
+enriched library. For this the 90th percentile (default, see normalization percentile) of all
+data values is calculated for each graph of a treated library. This value is then used to
+normalize this graph as well as the respective graph of the untreated library. Thus, the
+relative di erences between each pair of libraries (treated and untreated) are not changed
+in this normalization step. All graphs are multiplied with the overall lowest value to
+restore the original data range.
+To account for di erent enrichment rates a further normalization step is applied. During
+this step a prediction of TSS candidates is performed for each strain/condition. These
+candidates are then used to determine the median enrichment factor for each library pair
+(default, see enrichment normalization percentile). Using these medians all untreated
+libraries are then normalized against the library with the strongest enrichment.
 
 The SuperGenome
 -----------
