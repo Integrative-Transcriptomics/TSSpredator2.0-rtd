@@ -1,34 +1,7 @@
 Usage
 =====
 
-.. _installation:
-
-Installation
-------------
-
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Hallo
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+TSSpredator needs so-called wiggle or graph files in order to predict TSS from RNAseq
+data. TSSpredator does not provide methods to compute these from raw fastq
+reads. In order to generate these, we recommend to use the pipeline READemption [4],
+which is described in section :doc:`reademption`.
