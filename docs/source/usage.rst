@@ -5,3 +5,5 @@ TSSpredator needs so-called wiggle or graph files in order to predict TSS from R
 data. TSSpredator does not provide methods to compute these from raw fastq
 reads. In order to generate these, we recommend to use the pipeline READemption [4],
 which is described in section :doc:`reademption`.
+
+.. [#FN1] Sharma et al.
