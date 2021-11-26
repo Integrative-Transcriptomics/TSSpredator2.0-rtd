@@ -25,7 +25,6 @@ Contents
 .. toctree::
 
    usage
-   api
    start
    methods
    userinterface
