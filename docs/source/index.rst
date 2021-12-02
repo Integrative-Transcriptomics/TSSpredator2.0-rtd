@@ -33,15 +33,10 @@ Contents
    otherprotocols
    reademption
    
-.. [#FN1] Cynthia M Sharma, Steve Hoffmann, Fabien Darfeuille, J er emy Reignier,
-Sven Findei , Alexandra Sittka, Sandrine Chabas, Kristin Reiche, Jorg
-Hackermuller, Richard Reinhardt, et al. "The primary transcriptome of
-the major human pathogen Helicobacter pylori". Nature, 464(7286):250,
-2010.
-.. [#FN2] Laurence Ettwiller, John Buswell, Erbay Yigit, and Ira Schildkraut. "A
-novel enrichment strategy reveals unprecedented number of novel transcription
-start sites at single base resolution in a model prokaryote and
-the gut microbiome". BMC genomics, 17(1):1{14, 2016.
+.. [#FN1] Cynthia M Sharma, Steve Hoffmann, Fabien Darfeuille, Jèrèmy Reignier, Sven Findeiß , Alexandra Sittka, Sandrine Chabas, Kristin Reiche, Jörg Hackermüller, Richard Reinhardt, et al. 
+	*"The primary transcriptome of the major human pathogen Helicobacter pylori"* Nature, 464(7286):250, 2010.
+.. [#FN2] Laurence Ettwiller, John Buswell, Erbay Yigit, and Ira Schildkraut. 
+	*"A novel enrichment strategy reveals unprecedented number of novel transcription start sites at single base resolution in a model prokaryote and the gut microbiome"*. BMC genomics, 17(1):1{14, 2016.
 .. [#FN3] Nicolas Innocenti, Monica Golumbeanu, Aymeric Fouquier d'H erouel,
 Caroline Lacoux, R emy A Bonnin, Sean P Kennedy, Fran coise Wessner,
 Pascale Serror, Philippe Bouloc, Francis Repoila, et al. "Whole-genome
