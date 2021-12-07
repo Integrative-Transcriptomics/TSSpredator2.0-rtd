@@ -68,7 +68,7 @@ value depends on the length of the reads that are stacking at the TSS position. 
 cases this feature can be disabled by setting it to '0'. However, it can be useful if RNA-seq
 reads have been trimmed extensively before mapping.
 
-**base height**s This value relates to the minimal number of reads in the non-enriched
+**base height** This value relates to the minimal number of reads in the non-enriched
 library that start at the TSS position. This feature is disabled by default.
 
 Normalization Settings
@@ -137,11 +137,14 @@ order as they have been chosen as input in Mauve.
 
 The first lines of the alignment file should also contain this information:
 
-#FormatVersion Mauve1
-#Sequence1File genomeA.fa
-#Sequence1Format FastA
-#Sequence2File genomeB.fa
-#Sequence2Format FastA
+.. code-block:: console
+
+	#FormatVersion Mauve1
+	#Sequence1File genomeA.fa
+	#Sequence1Format FastA
+	#Sequence2File genomeB.fa
+	#Sequence2Format FastA
+	
 In this example `genomeA' has ID 1 and `genomeB' has ID 2.
 When loading an alignment file (xmfa) TSSpredator tries to set the alignment IDs
 automatically.
