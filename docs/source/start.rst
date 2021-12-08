@@ -30,7 +30,7 @@ identifier of the header in the annotation file is written after ##Type DNA iden
 	
 or
 
-..code-block:: console
+.. code-block:: console
 
 	##gff-version 3
 	#!gff-spec-version 1.14
@@ -48,7 +48,7 @@ used identifier. The genome fastA file(s), the respective annotation file(s) and
 wiggle files should have the same identifier in the header. The following example shows,
 how it can look like:
 
-..code-block:: console
+.. code-block:: console
 
 	Genome fasta header:
 	>NC 000915.1 Helicobacter pylori

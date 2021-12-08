@@ -6,6 +6,9 @@ Userinterface
 Userinterface
 ---------------
 
+.. image:: images/test.jpeg
+	:width: 400  
+
 **Study setup** In the study setup area (Figure 4A) general settings for the study can be
 made. Most importantly these are the type of the study (comparison of strains (requires
 alignment file) or conditions), the number of genomes/conditions and replicates, and the
