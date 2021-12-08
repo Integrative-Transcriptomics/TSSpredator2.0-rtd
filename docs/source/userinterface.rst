@@ -8,9 +8,11 @@ Userinterface
 
 .. _fig-userinterface:
 
-.. figure:: images/test.png
+.. figure:: images/TSSpredatorGUI.png
 	:width: 400
 	:align: center  
+	
+Screenshot of the TSSpredator graphical user interface.
 
 **Study setup** In the study setup area (Figure 4A) general settings for the study can be
 made. Most importantly these are the type of the study (comparison of strains (requires
