@@ -6,7 +6,9 @@ Userinterface
 Userinterface
 ---------------
 
-.. figure:: images/test.jpeg
+.. _fig-userinterface:
+
+.. figure:: images/test.png
 	:width: 400
 	:align: center  
 
