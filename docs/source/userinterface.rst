@@ -6,8 +6,9 @@ Userinterface
 Userinterface
 ---------------
 
-.. image:: images/test.jpeg
-	:width: 400  
+.. figure:: images/test.jpeg
+	:width: 400
+	:align: center  
 
 **Study setup** In the study setup area (Figure 4A) general settings for the study can be
 made. Most importantly these are the type of the study (comparison of strains (requires
