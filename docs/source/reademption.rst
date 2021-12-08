@@ -1,6 +1,5 @@
-Reademption
-
-===========
+READemption
+==============
 
 READemption is a pipeline for the computational evaluation of RNA-Seq data. It
 was originally developed to process dRNA-Seq reads (as introduced by Sharma et al.
