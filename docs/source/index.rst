@@ -8,20 +8,20 @@ In addition we have started using it on RNA-seq data produced with the protocol 
 In this UserGuide we will concentrate on dRNA-seq data, in section :doc:`otherprotocols` we will give a short overview of how to use TSSpredator on data produced by that protocols.
 
 
-Table of Contents
+Content
 ------------------
 
 .. toctree::
    :titlesonly:
    
-	usage
-	start
-	methods
-	userinterface
-	parameters
-	output
-	otherprotocols
-	reademption
+   usage
+   start
+   methods
+   userinterface
+   parameters
+   output
+   otherprotocols
+   reademption
 
 
 
