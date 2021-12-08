@@ -1,6 +1,8 @@
 Settings and Parameters
 =========================
 
+.. _parameters:
+
 Study Setup
 -------------
 

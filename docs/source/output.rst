@@ -1,6 +1,8 @@
 Output
 =========
 
+.. _output:
+
 Master Table (MasterTable.tsv)
 -------------------------------
 

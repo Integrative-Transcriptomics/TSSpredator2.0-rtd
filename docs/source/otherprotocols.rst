@@ -1,6 +1,8 @@
 Other protocols
 ==========
 
+.. _otherprotocols:
+
 Cappable-Seq
 -------------
 

@@ -21,7 +21,7 @@ This includes the name and ID, and file paths to the genomic sequence (FASTA) an
 genome annotation (GFF). In addition, for each replicate a tab is displayed within the
 respective genome/condition tab, where the RNA-seq wiggle files of the replicate can be
 entered. If only fastq files are available instead of wiggle files, it is recommended to use
-the READemption pipeline (see section :ref:`reademption` to generate them).
+the READemption pipeline (see section :doc:`reademption` to generate them).
 
 **Message Area** In the message area (Figure 4D) information about a running prediction
 process is displayed. Thus, it can be easily determined in which step a running prediction
