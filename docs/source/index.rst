@@ -5,6 +5,7 @@ Table of Contents
 ------------------
 
 .. toctree::
+	:includehidden:
 
 	usage
 	start
