@@ -73,28 +73,43 @@ the identifiers between all three files, TSSpredator will stop and print the fol
 exception, see 1. This could be the case if an annotation file or another species is used
 or the header IDs are not identical.
 
-If an annotation file is missing, prediction of TSS is still done without classi cation.
+.. _fig-wrongID:
+
+.. figure:: images/wrongID.png
+	:width: 400
+	:align: center 
+	
+	Screenshot of the exception message if IDs could not be matched. TSSpredator will stop
+	TSS prediction.
+
+If an annotation file is missing, prediction of TSS is still done without classification.
 See figure 2.
+
+.. _fig-noGFF:
+
+.. figure:: images/noGFF.png
+	:width: 400
+	:align: center 
+	
+	Screenshot of the warning message if no annotation  le is given. Prediction is still performed
+	but all TSS will be classi ed as orphan.
+
+
 In the case of a multi-contig genome of a genome containing a plasmid together with
 a chromosome, TSSpredator first checks all headers and in the case of mismatched
 headers, warnings are printed in the message area about the failed header evaluation, see figure 3.
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+.. _fig-contigs:
 
-.. autofunction:: lumache.get_random_ingredients
+.. figure:: images/contigs.png
+	:width: 400
+	:align: center 
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+	Screenshot of the warning messages if IDs for multi fastA  les and annotations  les could not
+	be matched. TSSpredator will not stop TSS prediction.
 
-.. autoexception:: lumache.InvalidKindError
 
-For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
 Overview
 ----------------
