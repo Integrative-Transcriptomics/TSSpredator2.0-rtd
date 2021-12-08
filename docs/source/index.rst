@@ -14,10 +14,7 @@ In this UserGuide we will concentrate on dRNA-seq data, in section :doc:`otherpr
 Contents
 --------
 
-.. toctree::
-   :titlesonly:
-
-  
+- :doc:`usage`
    
    
    
