@@ -3,9 +3,6 @@ Userinterface
 
 .. _userinterface:
 
-Userinterface
----------------
-
 .. _fig-userinterface:
 
 .. figure:: images/TSSpredatorGUI.png
