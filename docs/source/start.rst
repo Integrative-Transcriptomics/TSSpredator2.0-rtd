@@ -70,7 +70,7 @@ analyses problems can occur. The user has the option to address this problem aft
 prediction, depending on what post-TSS prediction work will be done.
 In the following typical error messages and warnings are shown. If there is no match of
 the identifiers between all three files, TSSpredator will stop and print the following
-exception, see 1. This could be the case if an annotation file or another species is used
+exception, see :ref:`fig-wrongID`. This could be the case if an annotation file or another species is used
 or the header IDs are not identical.
 
 .. _fig-wrongID:
@@ -83,7 +83,7 @@ or the header IDs are not identical.
 	TSS prediction.
 
 If an annotation file is missing, prediction of TSS is still done without classification.
-See figure 2.
+See :ref:`fig-noGFF`.
 
 .. _fig-noGFF:
 
@@ -97,7 +97,7 @@ See figure 2.
 
 In the case of a multi-contig genome of a genome containing a plasmid together with
 a chromosome, TSSpredator first checks all headers and in the case of mismatched
-headers, warnings are printed in the message area about the failed header evaluation, see figure 3.
+headers, warnings are printed in the message area about the failed header evaluation, see figure :ref:`fig-contigs`.
 
 .. _fig-contigs:
 
