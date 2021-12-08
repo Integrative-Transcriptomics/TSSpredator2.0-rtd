@@ -15,7 +15,6 @@ Contents
 --------
 
 .. toctree::
-   :glob:
    :titlesonly:
 
    *
