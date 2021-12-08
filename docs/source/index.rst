@@ -30,7 +30,7 @@ Contents
 	*"The primary transcriptome of the major human pathogen Helicobacter pylori"* Nature, 464(7286):250, 2010.
 .. [#FN2] Laurence Ettwiller, John Buswell, Erbay Yigit, and Ira Schildkraut. 
 	*"A novel enrichment strategy reveals unprecedented number of novel transcription start sites at single base resolution in a model prokaryote and the gut microbiome"*. BMC genomics, 17(1):1-14, 2016.
-.. [#FN3] Nicolas Innocenti, Monica Golumbeanu, Aymeric Fouquier d'H erouel, Caroline Lacoux, R emy A Bonnin, Sean P Kennedy, Fran coise Wessner, Pascale Serror, Philippe Bouloc, Francis Repoila, et al. 
+.. [#FN3] Nicolas Innocenti, Monica Golumbeanu, Aymeric Fouquier d'Hérouel, Caroline Lacoux, Rémy A Bonnin, Sean P Kennedy, Francoise Wessner, Pascale Serror, Philippe Bouloc, Francis Repoila, et al. 
 	*"Whole-genome
 	mapping of 5 RNA ends in bacteria by tagged sequencing: a comprehensive
 	view in Enterococcus faecalis"*. Rna, 21(5):1018-1030, 2015.
