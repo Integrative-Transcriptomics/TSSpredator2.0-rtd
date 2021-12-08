@@ -1,5 +1,6 @@
 Usage
 =====
+.. _usage:
 
 TSSpredator needs so-called wiggle or graph files in order to predict TSS from RNAseq
 data. TSSpredator does not provide methods to compute these from raw fastq
