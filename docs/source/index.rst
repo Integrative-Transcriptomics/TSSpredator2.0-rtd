@@ -5,8 +5,8 @@ Table of Contents
 ------------------
 
 .. toctree::
-	:includehidden:
-
+   :titlesonly:
+   
 	usage
 	start
 	methods
