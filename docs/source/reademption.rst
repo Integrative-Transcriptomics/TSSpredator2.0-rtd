@@ -17,7 +17,7 @@ TSSpredator is able to analyse genomes consisting multiple contigs or a chromoso
 with one ore more plasmids or several chromosomes. After preparing the input data as
 explained, one can create a reademption folder with the following command:
 
-..code-block:: console
+.. code-block:: console
 
 	reademption create -f TestAnalysis
 
@@ -27,7 +27,7 @@ respectively. For the multi-fastA case all genomes of the contigs, chromosomes o
 plasmids should be in one fastA file.
 After all needed files are copied, you can run the following command to start mapping:
 
-..code-block:: console
+.. code-block:: console
 	reademption align -f TestAnalysis
 	
 Please check the website for more informations about the parameter which can be
@@ -36,7 +36,7 @@ In this step all provided reads undergo a processing step and the processed read
 mapped to the genome (in the multi-fastA case to each entry) using segemehl [5]. For
 generating wiggle files the subcommand coverage has to be used:
 
-..code-block::console
+.. code-block:: console
 
 	reademption coverage -f TestAnalysis
 
