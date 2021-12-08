@@ -15,16 +15,12 @@ Contents
 --------
 
 .. toctree::
+   :glob:
    :titlesonly:
 
-   usage
-   start
-   methods
-   userinterface
-   parameters
-   output
-   otherprotocols
-   reademption
+   *
+   
+   
    
 .. [#FN1] Cynthia M Sharma, Steve Hoffmann, Fabien Darfeuille, Jèrèmy Reignier, Sven Findeiß , Alexandra Sittka, Sandrine Chabas, Kristin Reiche, Jörg Hackermüller, Richard Reinhardt, et al. 
 	*"The primary transcriptome of the major human pathogen Helicobacter pylori"* Nature, 464(7286):250, 2010.
