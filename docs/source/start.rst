@@ -70,7 +70,7 @@ analyses problems can occur. The user has the option to address this problem aft
 prediction, depending on what post-TSS prediction work will be done.
 In the following typical error messages and warnings are shown. If there is no match of
 the identifiers between all three files, TSSpredator will stop and print the following
-exception, see :ref:`fig-wrongID`. This could be the case if an annotation file or another species is used
+exception, see :numref:`fig-wrongID`. This could be the case if an annotation file or another species is used
 or the header IDs are not identical.
 
 .. _fig-wrongID:
@@ -91,7 +91,7 @@ See :ref:`fig-noGFF`.
 	:width: 400
 	:align: center 
 	
-	Screenshot of the warning message if no annotation  le is given. Prediction is still performed
+	Screenshot of the warning message if no annotation file is given. Prediction is still performed
 	but all TSS will be classi ed as orphan.
 
 
@@ -105,7 +105,7 @@ headers, warnings are printed in the message area about the failed header evalua
 	:width: 400
 	:align: center 
 
-	Screenshot of the warning messages if IDs for multi fastA  les and annotations  les could not
+	Screenshot of the warning messages if IDs for multi fastA files and annotations files could not
 	be matched. TSSpredator will not stop TSS prediction.
 
 
