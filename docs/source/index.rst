@@ -15,6 +15,7 @@ Contents
 --------
 
 .. _toctree::
+
 	usage
 	start
 	methods
