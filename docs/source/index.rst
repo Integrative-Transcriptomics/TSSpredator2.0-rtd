@@ -4,7 +4,7 @@ TSSpredator - A TSS prediction and classification tool
 Table of Contents
 ------------------
 
-.. _toctree::
+.. toctree::
 
 	usage
 	start
