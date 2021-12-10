@@ -79,10 +79,10 @@ or the header IDs are not identical.
 	:width: 400
 	:align: center 
 	
-	Figure 1: Screenshot of the exception message if IDs could not be matched. TSSpredator will stop
-	TSS prediction.
+	Figure 1
 
-If an annotation file is missing, prediction of TSS is still done without classification.
+If an annotation file is missing, prediction of TSS is still done without classification and
+all TSS will be classified as orphan. 
 See :ref:`fig-noGFF`.
 
 .. _fig-noGFF:
@@ -91,13 +91,12 @@ See :ref:`fig-noGFF`.
 	:width: 400
 	:align: center 
 	
-	Figure 2: Screenshot of the warning message if no annotation file is given. Prediction is still performed
-	but all TSS will be classi ed as orphan.
-
+	Figure 2
 
 In the case of a multi-contig genome of a genome containing a plasmid together with
 a chromosome, TSSpredator first checks all headers and in the case of mismatched
 headers, warnings are printed in the message area about the failed header evaluation, see figure :ref:`fig-contigs`.
+TSSpredator will not stop TSS prediction.
 
 .. _fig-contigs:
 
@@ -105,8 +104,7 @@ headers, warnings are printed in the message area about the failed header evalua
 	:width: 400
 	:align: center 
 
-	Figure 3: Screenshot of the warning messages if IDs for multi fastA files and annotations files could not
-	be matched. TSSpredator will not stop TSS prediction.
+	Figure 3
 
 
 
