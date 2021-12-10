@@ -11,7 +11,7 @@ to compare different conditions or from several different bacterial organisms to
 different strains/species.
 Comparison of different strains/species For this case, a multiple genome alignment
 of the genomes studied needs to be precomputed. We recommend to compute this
-using progressive Mauve (available from #<http://darlinglab.org/mauve/user-guide/progressivemauve.html>). It saves the alignment in an xmfa file format, which is then
+using progressive Mauve (available from <http://darlinglab.org/mauve/user-guide/progressivemauve.html>). It saves the alignment in an xmfa file format, which is then
 loaded into TSSpredator.
 For each analysed organism, TSSpredator needs the genome file in fastA format.
 These need to be the identical fastA files that were used for the multiple genome

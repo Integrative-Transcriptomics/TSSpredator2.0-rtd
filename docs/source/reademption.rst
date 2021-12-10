@@ -8,7 +8,7 @@ was originally developed to process dRNA-Seq reads (as introduced by Sharma et a
 [1] originating from bacterial samples. Meanwhile it has been extended to process data
 generated in different experimental setups.
 An elaborate description of all current features of READemption is available under
-#<https://reademption.readthedocs.io/en/latest/#>. In this section we describe how
+<https://reademption.readthedocs.io/en/latest/#>. In this section we describe how
 to use READemption for the purpose of producing wiggle data from raw reads produced
 using the dRNA-seq protocol.
 
