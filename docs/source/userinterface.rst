@@ -4,7 +4,7 @@ Userinterface
 .. _userinterface:
 
 .. figure:: images/TSSpredatorGUI.png
-	:width: 400
+	:width: 300
 	:align: center  
 	
     GUI of TSSpredator
