@@ -76,7 +76,7 @@ nucleotides upstream of the TSS.
 
 Supplemental Files
 --------------------
-** *strain* _super.fa** Contains the genome sequence of each strain mapped to the coordinate
+***strain* _super.fa** Contains the genome sequence of each strain mapped to the coordinate
 system of the SuperGenome. All 4 files together actually contain the whole-genome
 alignment. These files can be used in genome browsers that allow the user to load several
 sequences simultaneously.
