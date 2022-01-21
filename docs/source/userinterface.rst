@@ -3,8 +3,6 @@ Userinterface
 
 .. _userinterface:
 
-.. _fig-userinterface:
-
 .. figure:: images/TSSpredatorGUI.png
 	:width: 400
 	:align: center  
