@@ -5,9 +5,9 @@ Userinterface
 
 .. _figGUI:
 
-.. figure:: images/TSSpredatorGUI.png
-	:width: 200
-	:align: center  
+.. figure:: images/wrongID.png
+	:width: 400
+	:align: center
 	
     GUI of TSSpredator
 
