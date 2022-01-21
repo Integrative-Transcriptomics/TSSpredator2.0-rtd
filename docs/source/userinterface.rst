@@ -3,13 +3,7 @@ Userinterface
 
 .. _userinterface:
 
-.. _figGUI:
 
-.. figure:: images/wrongID.png
-	:width: 400
-	:align: center
-	
-    GUI of TSSpredator
 
 **Study setup** In the study setup area (Figure 4A) general settings for the study can be
 made. Most importantly these are the type of the study (comparison of strains (requires
@@ -40,4 +34,12 @@ respectively. Loading a configuration overwrites all current settings.
 started using the current settings and parameters. Information about the running process
 is displayed in the message area. The running prediction can be canceled using the Cancel
 button. Note that this might result in incomplete output files.
+
+.. _figGUI:
+
+.. figure:: images/TSSpredatorGUI.png
+	:width: 200
+	:align: center  
+	
+    GUI of TSSpredator
 
