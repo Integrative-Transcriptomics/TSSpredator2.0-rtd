@@ -8,7 +8,7 @@ See :ref:`figGUI` for the explanation of the GUI of TSSpredator.
 .. _figGUI:
 
 .. figure:: images/TSSpredatorGUI.png
-	:width: 50
+	:width: 50 %
 	:align: center  
 	
     GUI of TSSpredator
