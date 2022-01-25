@@ -41,7 +41,7 @@ button. Note that this might result in incomplete output files.
 
 .. _figGUI:
 
-.. figure:: images/gui.png
+.. figure:: images/wrongID.png
 	:width: 200
 	:align: center  
 	
