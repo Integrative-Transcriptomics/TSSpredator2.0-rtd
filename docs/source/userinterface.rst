@@ -42,7 +42,7 @@ button. Note that this might result in incomplete output files.
 .. _figGUI:
 
 .. figure:: images/wrongID.png
-	:width: 200
-	:align: center  
+	:width: 400
+	:align: right  
 	
     Figure 4
