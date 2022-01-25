@@ -5,13 +5,7 @@ Userinterface
 
 See :ref:`figGUI` for the explanation of the GUI of TSSpredator.
 
-.. _figGUI:
 
-.. figure:: images/gui.png
-	:width: 50 %
-	:align: center  
-	
-    GUI of TSSpredator
 
 
 **Study setup** In the study setup area (Figure 4A) general settings for the study can be
@@ -45,3 +39,10 @@ is displayed in the message area. The running prediction can be canceled using t
 button. Note that this might result in incomplete output files.
 
 
+.. _figGUI:
+
+.. figure:: images/gui.png
+	:width: 200
+	:align: center  
+	
+    GUI of TSSpredator
