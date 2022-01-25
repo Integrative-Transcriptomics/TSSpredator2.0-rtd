@@ -45,4 +45,4 @@ button. Note that this might result in incomplete output files.
 	:width: 200
 	:align: center  
 	
-    GUI of TSSpredator
+    Figure 4
