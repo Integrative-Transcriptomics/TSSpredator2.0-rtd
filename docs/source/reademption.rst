@@ -3,7 +3,7 @@ READemption
 
 .. _reademption:
 
-READemption [#FN4]_ is a pipeline for the computational evaluation of RNA-Seq data. It
+READemption [4]_ is a pipeline for the computational evaluation of RNA-Seq data. It
 was originally developed to process dRNA-Seq reads (as introduced by Sharma et al.
 [1] originating from bacterial samples. Meanwhile it has been extended to process data
 generated in different experimental setups.
@@ -33,7 +33,7 @@ After all needed files are copied, you can run the following command to start ma
 Please check the website for more informations about the parameter which can be
 set.
 In this step all provided reads undergo a processing step and the processed reads will be
-mapped to the genome (in the multi-fastA case to each entry) using segemehl [5]. For
+mapped to the genome (in the multi-fastA case to each entry) using segemehl [5]_. For
 generating wiggle files the subcommand coverage has to be used:
 
 .. code-block:: console
@@ -55,8 +55,8 @@ the folder coverage-tnoar-mil-normalized, divide the coverage column of all file
 The lowest number can be found by comparing the file names of the wiggle files. After
 normalization the wiggle files can be used by TSSpredator as described before.
 
-.. [#FN4] Konrad U. Förstner, Jörg Vogel, Cynthia M. Sharma. 2014,
-*"READemption – A tool for the computational analysis of deep-sequencing-based transcriptome data."*, Aug 13, Bioinformatics.
+.. [4] Konrad U. Förstner, Jörg Vogel, Cynthia M. Sharma. 2014,
+	*"READemption – A tool for the computational analysis of deep-sequencing-based transcriptome data."*, Aug 13, Bioinformatics.
 
-.. [#FN5] Hoffmann S, Otto C, Kurtz S, Sharma CM, Khaitovich P, Vogel J, Stadler PF, Hackermueller J,
- *"Fast mapping of short sequences with mismatches, insertions and deletions using index structures"*, PLoS Comput Biol (2009) vol. 5 (9) pp. e1000502
+.. [5] Hoffmann S, Otto C, Kurtz S, Sharma CM, Khaitovich P, Vogel J, Stadler PF, Hackermueller J,
+  *"Fast mapping of short sequences with mismatches, insertions and deletions using index structures"*, PLoS Comput Biol (2009) vol. 5 (9) pp. e1000502
