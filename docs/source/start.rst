@@ -65,12 +65,21 @@ The first column of the annotation file must be the same identifier as the heade
 or a part of it, i.e. it should be contained. But it should be noted that for further
 analyses, for example when using the Integrative Genome Browser, the fastA IDs have
 to be the same as the ones in the first column of the annotation file. If the first column
+
+.. _figGUI:
+
+.. figure:: images/gui.png
+	:width: 400
+	:align: right  
+	
+    Figure 4
+	
 is only a part of the header ID, TSSpredator will run without problems but in further
 analyses problems can occur. The user has the option to address this problem after TSS
 prediction, depending on what post-TSS prediction work will be done.
 In the following typical error messages and warnings are shown. If there is no match of
 the identifiers between all three files, TSSpredator will stop and print the following
-exception, see :numref:`fig-wrongID`. This could be the case if an annotation file or another species is used
+exception, see :ref:`fig-wrongID`. This could be the case if an annotation file or another species is used
 or the header IDs are not identical.
 
 .. _fig-wrongID:
@@ -125,3 +134,5 @@ file (e.g. called 'config.conf'), as it is saved by TSSpredator's GUI. For examp
 .. code-block:: console
 
 	java -Xmx1G -jar TSSpredator.jar config.conf
+
+
