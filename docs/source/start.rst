@@ -64,16 +64,7 @@ how it can look like:
 The first column of the annotation file must be the same identifier as the header
 or a part of it, i.e. it should be contained. But it should be noted that for further
 analyses, for example when using the Integrative Genome Browser, the fastA IDs have
-to be the same as the ones in the first column of the annotation file. If the first column
-
-.. _figGUI:
-
-.. figure:: images/gui.png
-	:width: 10
-	:align: center  
-	
-    Figure 4
-	
+to be the same as the ones in the first column of the annotation file. If the first column 
 is only a part of the header ID, TSSpredator will run without problems but in further
 analyses problems can occur. The user has the option to address this problem after TSS
 prediction, depending on what post-TSS prediction work will be done.
