@@ -9,12 +9,12 @@ Study Setup
 **Project Name** Enter a name for the study.
 Type of Study Choose between *Comparison of different conditions* and *Comparison
 of different strains/species*.
-For a cross-strain analysis an Alignment file has to be provided (see below). In addition,
+For a cross-strain analysis an alignment file has to be provided (see below). In addition,
 in each genome tab an individual genomic sequence and genome annotation has to be set.
 When comparing different conditions no alignment file is needed and the genomic sequence
 and genome annotation of the organism has to be set in the first genome tab only.
 
-**Number of Genomes** Set the number of di erent strains/conditions in the study.
+**Number of Genomes** Set the number of different strains/conditions in the study.
 Press the 'Set' button to generate a settings tab for each strain/condition and each replicate
 of the study.
 
@@ -29,16 +29,16 @@ study compares different conditions, this field is inactive.
 
 TSS prediction parameters
 --------------------------
-In the following the parameters a ecting the TSS prediction procedure are described.
-Instead of changing the parameters manually it is also possible to select prede ned parameters
+In the following the parameters affecting the TSS prediction procedure are described.
+Instead of changing the parameters manually it is also possible to select predefined parameters
 sets using the parameter presets drop-down menu.
 
 **step height** This value relates to the minimal number of read starts at a certain genomic
-position to be considered as a TSS candidate. To account for di erent sequencing depths
+position to be considered as a TSS candidate. To account for different sequencing depths
 this is a relative value based on the 90th percentile of the expression height distribution.
 A lower value results in a higher sensitivity.
 
-**step height reduction** When comparing di erent strains/conditions and the step
+**step height reduction** When comparing different strains/conditions and the step
 height threshold is reached in at least one strain/condition, the threshold is reduced
 for the other strains/conditions by the value set here. A higher value results in a higher
 sensitivity. Note that this value must be smaller than the step height threshold.
@@ -49,7 +49,7 @@ higher expression in regions of locally high expression than would be necessary 
 where no expression background is detected. A lower value results in a higher sensitivity.
 Set this value to 1 to disable the consideration of the local expression level.
 
-**step factor reduction** When comparing di erent strains/conditions and the step factor
+**step factor reduction** When comparing different strains/conditions and the step factor
 threshold is reached in at least one strain/condition, the threshold is reduced for the other
 strains/conditions by the value set here. A higher value results in a higher sensitivity.
 Note that this value must be smaller than the step factor threshold.
@@ -157,8 +157,8 @@ automatically.
 (as can be downloaded from NCBI).
 
 **output ID** The specified output ID defines which gene tag in the attributes column
-(in the provided gff annotation file) should be used for TSS classification. Examples are
-`locus tag' or `gene id'.
+(in the provided gff/gtf annotation file) should be used for TSS classification. Examples are
+*locus tag* or *gene id*.
 
 
 Graph Files
