@@ -55,9 +55,9 @@ if its untreated expression value does not exceed its treated expression value b
 higher than the chosen processing site factor. Otherwise we consider it to be a processing
 site. TSS candidates that are in close vicinity (TSS cluster distance) are grouped into a
 cluster and by default only the TSS candidate with the highest expression is kept (see
-cluster method). The  nal TSS annotations are then characterized with respect to their
-occurrence in the di erent strains/conditions and in which strain/condition they appear
-to be enriched. The TSS are then further classi ed according to their location relative to
+cluster method). The final TSS annotations are then characterized with respect to their
+occurrence in the dfifferent strains/conditions and in which strain/condition they appear
+to be enriched. The TSS are then further classified according to their location relative to
 annotated genes. For this we used a similar classification scheme as previously described
 [1]. Thus for each TSS it is decided if it is the primary or secondary TSS of a gene, if
 it is an internal TSS, an antisense TSS or if it cannot be assigned to one of these classes
