@@ -112,11 +112,11 @@ TSSpredator will not stop TSS prediction.
 Overview
 ----------------
 
-There are two ways to use TSSpredator. The most convenient way is to use its graphical user interface (GUI), which is described in section 5. Here, all settings and parameters
+There are two ways to use TSSpredator. The most convenient way is to use its graphical user interface (GUI), which is described in section :doc:`userinterface`. Here, all settings and parameters
 can be specified that are needed for the prediction. For a detailed description of the parameters see section 6. After setting up the study the configuration can be saved. Pressing
 the RUN button starts the prediction procedure. All results are saved in the specified
 output folder. The most important result file is the Master Table (MasterTable.tsv ). For
-a detailed description of all result files see section 7.
+a detailed description of all result files see section :doc:`output`.
 Another way to utilize TSSpredator is via its command line interface. This
 is especially useful for automatization or integration in an analysis pipeline. For this,
 TSSpredator has to be started with a single argument, which is the path of a configuration
