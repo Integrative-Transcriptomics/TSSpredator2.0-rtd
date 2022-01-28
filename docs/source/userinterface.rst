@@ -43,6 +43,6 @@ button. Note that this might result in incomplete output files.
 
 .. figure:: images/gui.png
 	:width: 400
-	:align: right  
+	:align: center 
 	
     Figure 4
