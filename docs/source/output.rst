@@ -41,7 +41,7 @@ expression height at position i)
 
 **Strand** Strand of the TSS in that genome.
 
-**Locus tag** The locus tag of the gene to which the classi cation relates.
+**Locus tag** The locus tag of the gene to which the classification relates.
 
 **Product** The product description of this gene.
 
