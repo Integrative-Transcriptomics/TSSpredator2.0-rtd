@@ -69,7 +69,7 @@ to be the same as the ones in the first column of the annotation file. If the fi
 .. _figGUI:
 
 .. figure:: images/gui.png
-	:width: 50
+	:width: 10
 	:align: center  
 	
     Figure 4
