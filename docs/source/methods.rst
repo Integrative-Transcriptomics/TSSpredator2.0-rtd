@@ -43,7 +43,7 @@ of positions, where a signi cant number of reads start. Thus, for each positio
 the RNA-seq graph corresponding to the treated library the algorithm calculates e(i)-e(i-1), where e(i) is the expression height at position i. In addition, the factor of
 height change is calculated, i.e. e(i)/e(i-1). To evaluate if the reads starting at this
 position are originating from primary transcripts the enrichment factor is calculated as
-e_*treated*(i)/e_*untreated*(i). For all positions where these values exceed the threshold a TSS
+e*treated*(i)/e*untreated*(i). For all positions where these values exceed the threshold a TSS
 candidate is annotated. If the TSS candidate reaches the thresholds in at least one
 strain/condition the thresholds are decreased for the other strains/conditions. We declare
 a TSS candidate to be enriched in a strain/condition if the respective enrichment factor
