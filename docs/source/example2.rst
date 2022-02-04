@@ -1,7 +1,9 @@
 HowTo: example analysis with Campylobacter data
 ================================================
 
-Quick step-by-step guide to use TSSpredator with the example data provided with the software.
+.. _example2:
+
+Quick step-by-step guide to use TSSpredator with the example data provided at <https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transkriptomik/software/tsspredator/>
 The example data provided here is the multistrain Campylobacter data from Dugar et al., PLOS Genetics 9(5), 2013.
 
 1. Open a Terminal and navigate to the folder with the TSSpredator jar file. Type:
@@ -9,12 +11,12 @@ The example data provided here is the multistrain Campylobacter data from Dugar 
 .. code-block:: console
    java -jar TSSpredator-1.1beta.jar
     
-   You can also try to start TSSpredator by a double-click on the **TSSpredator-1.1beta.jar** file.
-   You will be asked for the memory to be allocated.
-   Click the big button for an automated selection or choose a value.
-   (For the full example data (4 strains, 2 replicates each) it is recommended to start the software with at least 1GB RAM).
-	You can now choose to load the config file called *Campy.config* that is provided and continue with step 8 or you continue with the following steps 2-7.
-	If you want to use the config file you need to adjust the paths in the config file to the correct paths on your computer. This can easily be done with a text editor.
+ You can also try to start TSSpredator by a double-click on the **TSSpredator-1.1beta.jar** file.
+ You will be asked for the memory to be allocated.
+ Click the big button for an automated selection or choose a value.
+ (For the full example data (4 strains, 2 replicates each) it is recommended to start the software with at least 1GB RAM).
+ You can now choose to load the config file called *Campy.config* that is provided and continue with step 8 or you continue with the following steps 2-7.
+ If you want to use the config file you need to adjust the paths in the config file to the correct paths on your computer. This can easily be done with a text editor.
    
 2. Select an alignment file.
    In the upper right corner of the TSSpredator window
