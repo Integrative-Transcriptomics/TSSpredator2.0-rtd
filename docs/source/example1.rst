@@ -11,11 +11,12 @@ The example data provided here is the S. aureus data comparing wildtype and a kn
 	 java -jar TSSpredator-1.1beta.jar
   
 
-You can also try to start TSSpredator by a double-click on the **TSSpredator-1.1beta.jar** file.
-You will be asked for the memory to be allocated.
-Click the big button for an automated selection or choose a value.  
-You can now choose to load the config file called **TSSpredator_Saureus.config** that is provided and continue with step 8 or you continue with the following steps 2-7.
-If you want to use the config file you need to adjust the paths in the config file to the correct paths on your computer. This can easily be done with a text editor.
+  You can also try to start TSSpredator by a double-click on the **TSSpredator-1.1beta.jar** file.
+  You will be asked for the memory to be allocated.
+  Click the big button for an automated selection or choose a value.  
+  You can now choose to load the config file called *TSSpredator_Saureus.config* that is provided and continue with step 8 or you continue 
+  with the following steps 2-7.
+  If you want to use the config file you need to adjust the paths in the config file to the correct paths on your computer. This can easily be done with a text editor.
 
 2. Choose an output folder.
    In the upper right corner of the TSSpredator window
@@ -42,7 +43,8 @@ If you want to use the config file you need to adjust the paths in the config fi
    (One for each replicate).
    The respective (wiggle) graph files can be found in **example-data/Saureus-2Cond-2Repl/Archive/S_aureus_coverages**
    folder. Each file name from the wildtype is set up as
-   GM_SA_WT[2,3]_[plus,minus]_*_[forward,reverse]_in_NC_009641.1.grEach file name from the knockout is set up as
+   GM_SA_WT[2,3]_[plus,minus]_*_[forward,reverse]_in_NC_009641.1.gr 
+   Each file name from the knockout is set up as
    GM_SA_rny[1,2]_[plus,minus]_*_[forward,reverse]_in_NC_009641.1.gr
    and can thus be easily identified.
    For example: *GM_SA_rny1_minus_TEX.fa_div_by_6538401.0_multi_by_5727088.0_\nforward.wig_GM_SA_rny1_minus_TEX.fa_forward_in_NC_009641.1*
@@ -62,6 +64,6 @@ If you want to use the config file you need to adjust the paths in the config fi
    An overview statistic will be shown at the end of the process
    in the message area (lower part of the TSSpredator window).
    Detailed results can be found in the output folder.
-   The **MasterTable** contains detailed information on all predicted TSS.
-   In **TSSstatistics.tsv** you can find a more detailed overview
+   The *MasterTable* contains detailed information on all predicted TSS.
+   In *TSSstatistics.tsv* you can find a more detailed overview
    of TSS classifications.
