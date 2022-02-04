@@ -47,7 +47,8 @@ The example data provided here is the S. aureus data comparing wildtype and a kn
    Each file name from the knockout is set up as
    GM_SA_rny[1,2]_[plus,minus]_*_[forward,reverse]_in_NC_009641.1.gr
    and can thus be easily identified.
-   For example: *GM_SA_rny1_minus_TEX.fa_div_by_6538401.0_multi_by_5727088.0_\nforward.wig_GM_SA_rny1_minus_TEX.fa_forward_in_NC_009641.1*
+   For example: *GM_SA_rny1_minus_TEX.fa_div_by_6538401.0_multi_by_5727088.0_*
+   *forward.wig_GM_SA_rny1_minus_TEX.fa_forward_in_NC_009641.1*
    denotes the graph file
    of the any mutant, first replicate of the normal (non-enriched) library mapped to the forward strand.
    
