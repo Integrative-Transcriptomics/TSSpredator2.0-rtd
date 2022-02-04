@@ -41,7 +41,7 @@ button. Note that this might result in incomplete output files.
 
 .. _figGUI:
 
-.. figure:: images/TSSpredatorGUI.png
+.. figure:: images/TSSpredatorgui.png
 	:width: 200
 	:align: center 
 	
