@@ -1,6 +1,8 @@
 HowTo: example analysis with S.aureus
 ===============================================
 
+.. _example1:
+
 Quick step-by-step guide to use TSSpredator with the second example data provided at <https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transkriptomik/software/tsspredator/>
 The example data provided here is the S. aureus data comparing wildtype and a knockout mutant.
 
