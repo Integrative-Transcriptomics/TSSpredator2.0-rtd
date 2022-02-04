@@ -22,6 +22,8 @@ Content
    output
    otherprotocols
    reademption
+   example1
+   example2
 
 
 
