@@ -3,8 +3,7 @@ HowTo: example analysis with Campylobacter data
 
 .. _example2:
 
-Quick step-by-step guide to use TSSpredator with the example data provided at <https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transkriptomik/software/tsspredator/>
-The example data provided here is the multistrain Campylobacter data from Dugar et al., PLOS Genetics 9(5), 2013.
+Quick step-by-step guide to use TSSpredator with the example data provided `here <https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transkriptomik/software/tsspredator/>`_. The example data is the multistrain Campylobacter data from Dugar et al., PLOS Genetics 9(5), 2013.
 
 1. Open a Terminal and navigate to the folder with the TSSpredator jar file. Type:
 
