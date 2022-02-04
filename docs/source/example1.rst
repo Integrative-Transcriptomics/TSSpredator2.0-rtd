@@ -3,8 +3,8 @@ HowTo: example analysis with S.aureus
 
 .. _example1:
 
-Quick step-by-step guide to use TSSpredator with the second example data provided at `website
-<https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transkriptomik/software/tsspredator/>`_. The example data provided here is the S. aureus data comparing wildtype and a knockout mutant.
+Quick step-by-step guide to use TSSpredator with the example data provided `here
+<https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transkriptomik/software/tsspredator/>`_. This data is the S. aureus data comparing wildtype and a knockout mutant.
 
 1. Open a Terminal and navigate to the folder with the TSSpredator jar file. Type:
 
