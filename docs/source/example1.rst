@@ -3,15 +3,17 @@ HowTo: example analysis with S.aureus
 
 Quick step-by-step guide to use TSSpredator with the second example data provided at <https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transkriptomik/software/tsspredator/>
 The example data provided here is the S. aureus data comparing wildtype and a knockout mutant.
-(For a detailed documentation please refer to the user manual ('TSSpredator_User_Guide_v_1_1.pdf').)
 
-1. Open a Terminal and navigate to the folder with the TSSpredator jar file. 
-  Type  .. autofunction:: java -jar TSSpredator-1.1beta.jar". 
+1. Open a Terminal and navigate to the folder with the TSSpredator jar file. Type ``java -jar TSSpredator-1.1beta.jar ``
+
+  .. autofunction:: java -jar TSSpredator-1.1beta.jar
+  
+
    You can also try to start TSSpredator by a double-click on the TSSpredator-1.1beta.jar file.
-   You will be asked for the memory to be allocated:
+   You will be asked for the memory to be allocated.
    Click the big button for an automated selection or choose a value. 
   
-You can now choose to load the config file called "TSSpredator_Saureus.config" that is provided and continue with step 8 or you continue with the following steps 2-7.
+You can now choose to load the config file called **TSSpredator_Saureus.config** that is provided and continue with step 8 or you continue with the following steps 2-7.
 If you want to use the config file you need to adjust the paths in the config file to the correct paths on your computer. This can easily be done with a text editor.
 
 2. Choose an output folder.
