@@ -13,12 +13,12 @@ The example data provided here is the S. aureus data comparing wildtype and a kn
 	 java -jar TSSpredator-1.1beta.jar
   
 
-  You can also try to start TSSpredator by a double-click on the **TSSpredator-1.1beta.jar** file.
-  You will be asked for the memory to be allocated.
-  Click the big button for an automated selection or choose a value.  
-  You can now choose to load the config file called *TSSpredator_Saureus.config* that is provided and continue with step 8 or you continue 
-  with the following steps 2-7.
-  If you want to use the config file you need to adjust the paths in the config file to the correct paths on your computer. This can easily be done with a text editor.
+You can also try to start TSSpredator by a double-click on the **TSSpredator-1.1beta.jar** file.
+You will be asked for the memory to be allocated.
+Click the big button for an automated selection or choose a value.  
+You can now choose to load the config file called *TSSpredator_Saureus.config* that is provided and continue with step 8 or you continue 
+with the following steps 2-7.
+If you want to use the config file you need to adjust the paths in the config file to the correct paths on your computer. This can easily be done with a text editor.
 
 2. Choose an output folder.
    In the upper right corner of the TSSpredator window
