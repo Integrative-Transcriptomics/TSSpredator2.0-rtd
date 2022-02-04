@@ -22,7 +22,7 @@ If you want to use the config file you need to adjust the paths in the config fi
 2. Select an alignment file.
    In the upper right corner of the TSSpredator window
    you can choose an alignment file.
-   Choose ``alignment.xmfa``, which is in the **example-data/Campy-Data-multipleStrains folder**.
+   Choose ``alignment.xmfa``, which is in the ``example-data/Campy-Data-multipleStrains folder``.
    You will be asked if the names and the number of genomes
    should be read from the file: click Yes.
    
@@ -30,12 +30,12 @@ If you want to use the config file you need to adjust the paths in the config fi
    In the upper right corner of the TSSpredator window
    you can choose an output folder,
    where all result files will be put.
-   You can choose the **results** folder in **example-data/Campy-Data-multipleStrains**.
+   You can choose the ``results`` folder in ``example-data/Campy-Data-multipleStrains``.
    
 4. Set the number of replicates.
    In the upper left corner of the TSSpredator window
    you can set the number of replicates.
-   For this example data, set this number to **2** and press **Set**.
+   For this example data, set this number to ``2`` and press ``Set``.
    
 5. You can also give a name to the Project in the upper left corner.
 
@@ -44,13 +44,13 @@ If you want to use the config file you need to adjust the paths in the config fi
    for each strain (genome) that was loaded from the alignment.
    In each tab load the respective files for the genomic sequence (fasta)
    and the genome annotation (GFF).
-   The files can be found in **example-data/Campy-Data-multipleStrains** in the **fasta** and **gff** folders, respectively.
+   The files can be found in ``example-data/Campy-Data-multipleStrains`` in the ``fasta`` and ``gff`` folders, respectively.
    
 7. Load the RNA-seq data.
    In each tab you will also find two tabs for the RNA-Seq Graph Files
    (One for each replicate).
-   The respective (wiggle) graph files can be found in **example-data/Campy-Data-multipleStrains**
-   in the **graphs** folder.
+   The respective (wiggle) graph files can be found in ``example-data/Campy-Data-multipleStrains``
+   in the ``graphs`` folder.
    Each file name is set up as
    StrainName_R[1,2]_[enriched,normal]_RefseqID_[plus,minus].gr
    and can thus be easily identified.
@@ -61,18 +61,18 @@ If you want to use the config file you need to adjust the paths in the config fi
 8. Save the configuration.
    The configuration is now complete using standard parameters.
    If you want, you can save the configuration for later use
-   by clicking the **Save** button in the lower left corner.
+   by clicking the ``Save`` button in the lower left corner.
    
 9. Start the detection procedure.
-   Start the process by clicking the **RUN** button
+   Start the process by clicking the ``RUN`` button
    in the lower right corner.
    
 10. View the results.
     An overview statistic will be shown at the end of the process
     in the message area (lower part of the TSSpredator window).
 	Detailed results can be found in the output folder.
-    The *MasterTable* contains detailed information on all predicted TSS.
-    In *TSSstatistics.tsv* you can find a more detailed overview
+    The ``MasterTable`` contains detailed information on all predicted TSS.
+    In ``TSSstatistics.tsv`` you can find a more detailed overview
     of TSS classifications.
 
 
