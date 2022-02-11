@@ -1,4 +1,4 @@
-Userinterface
+User Interface
 ===============
 
 .. _userinterface:
